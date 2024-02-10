@@ -121,6 +121,21 @@
     }
 }
 
+/* 490 */
+@media (max-width: 490px) {
+    .home__img img {
+        width: 450px;
+    }
+
+    .burger-icon {
+        margin-left: 200px;
+    }
+
+    .footer__icons {
+        display: none;
+    }
+}
+
 /* 432 */
 @media (max-width: 432px) {
     .home__img img {
@@ -130,12 +145,23 @@
         margin-left: 180px;
     }
 
-    .footer__icons {
-        display: none;
+    .footer__logo a{
+        text-align: left;
+    }
+}
+
+/* 390 */
+@media (max-width: 390px) {
+    .home__img img {
+        width: 380px;
+    }
+
+    .burger-icon {
+        margin-left: 140px;
     }
 
     .footer__logo a{
-        text-align: left;
+        font-size: 20px;
     }
 }
 
@@ -150,8 +176,7 @@
     }
 
     .footer__logo a{
-        font-weight: 700;
-        font-size: 20px;
+        font-size: 18px;
     }
 }
 
