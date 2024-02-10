@@ -1,0 +1,184 @@
+/* 1200 */
+@media (max-width: 1200px) {
+    .advantages__img {
+        width: 300px;
+    }
+}
+
+/* 992 */
+@media (max-width: 992px) {
+    .home__container {
+        gap: 30px;
+    }
+
+    .advantages__content {
+        gap: 20px;
+    }
+}
+
+/* 768 */
+@media (max-width: 768px) {
+    .home__container {
+        flex-direction: column;
+    }
+
+    .text__container {
+        gap: 10px;
+    }
+
+    .text__text {
+        font-size: 16px;
+    }
+
+    .advantages__content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .advantages-title {
+        text-align: center;
+    }
+
+    .advantages__title,
+    .advantages__text {
+        text-align: center;
+    }
+
+    .advantages__img {
+        margin-left: 20px;
+    }
+}
+
+/* 670 */
+@media (max-width: 670px) {
+    .header__container {
+        overflow: hidden;
+    }
+}
+
+/* 576 */
+@media (max-width: 576px) {
+    .header {
+        margin-bottom: 300px;
+    }
+
+    .header__list {
+        display: none;
+        flex-direction: column;
+        text-align: center;
+        background-color: var(--color-gray);
+        position: absolute;
+        top: 80px;
+        left: 0;
+        width: 100%;
+        margin-bottom: 300px;
+    }
+
+    .header__list.active {
+        display: flex;
+    }
+
+    .header__item {
+        margin: 10px 0;
+    }
+
+    .burger-icon {
+        display: block;
+        color: #FFF;
+        font-size: 32px;
+        margin-left: 300px;
+        padding-bottom: 20px;
+    }
+
+    .home__img img{
+        width: 550px;
+    }
+
+    .text__container {
+        flex-direction: column;
+        text-align: center;
+        gap: 50px;
+    }
+
+    .footer__wrapper {
+        display: block;
+        margin-left: 80px;
+    }
+    
+    .footer__icons {
+        margin-left: 100px;
+    }
+}
+
+/* 532 */
+@media (max-width: 532px) {
+    .burger-icon {
+        margin-left: 280px;
+    }
+
+    .home__img img {
+        width: 500px;
+    }
+}
+
+/* 432 */
+@media (max-width: 432px) {
+    .home__img img {
+        width: 400px;
+    }
+    .burger-icon {
+        margin-left: 180px;
+    }
+
+    .footer__icons {
+        display: none;
+    }
+
+    .footer__logo a{
+        text-align: left;
+    }
+}
+
+/* 376 */
+@media (max-width: 376px) {
+    .home__img img {
+        width: 350px;
+    }
+    
+    .burger-icon {
+        margin-left: 120px;
+    }
+
+    .footer__logo a{
+        font-weight: 700;
+        font-size: 20px;
+    }
+}
+
+/* 320 */
+@media (max-width: 320px) {
+    .home__img img {
+        width: 300px;
+    }
+
+    .home__title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+
+    .burger-icon {
+        margin-left: 70px;
+    }
+
+    .advantages-title {
+        font-size: 24px;
+    }
+
+    .advantages__content {
+        margin-right: 20px;
+    }
+
+    .footer__logo a {
+        font-size: 14px;
+    }
+}

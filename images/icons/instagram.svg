@@ -1,0 +1,27 @@
+<svg width="50.000000" height="50.000000" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_206_10244_dd" x="-1551.000000" y="-1886.000000" width="0.000000" height="0.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="7"/>
+			<feGaussianBlur stdDeviation="3.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.29412 0 0 0 0 0.29412 0 0 0 0 0.29412 0 0 0 0.1 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="-7"/>
+			<feGaussianBlur stdDeviation="3.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.29412 0 0 0 0 0.29412 0 0 0 0 0.29412 0 0 0 0.012 0"/>
+			<feBlend mode="normal" in2="effect_dropShadow_1" result="effect_dropShadow_2"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_2" result="shape"/>
+		</filter>
+	</defs>
+	<rect id="social=instagram" rx="25.000000" width="50.000000" height="50.000000" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<path id="Oval" d="M31.2174 20.278C32.0127 20.278 32.6575 19.6332 32.6575 18.8379C32.6575 18.0426 32.0127 17.3979 31.2174 17.3979C30.4221 17.3979 29.7775 18.0426 29.7775 18.8379C29.7775 19.6332 30.4221 20.278 31.2174 20.278Z" fill="#000000" fill-opacity="0.870000" fill-rule="nonzero"/>
+	<path id="Shape" d="M19 25C19 28.309 21.691 31 25 31C28.309 31 31 28.309 31 25C31 21.691 28.309 19 25 19C21.691 19 19 21.691 19 25ZM22 25C22 23.3455 23.3455 22 25 22C26.6545 22 28 23.3455 28 25C28 26.6545 26.6545 28 25 28C23.3455 28 22 26.6545 22 25Z" clip-rule="evenodd" fill="#000000" fill-opacity="0.870000" fill-rule="evenodd"/>
+	<path id="Shape" d="M19 37L31 37C34.084 37 37 34.084 37 31L37 19C37 15.916 34.084 13 31 13L19 13C15.916 13 13 15.916 13 19L13 31C13 34.084 15.916 37 19 37ZM16 19C16 17.5975 17.5975 16 19 16L31 16C32.4025 16 34 17.5975 34 19L34 31C34 32.4025 32.4025 34 31 34L19 34C17.5706 34 16 32.4294 16 31L16 19Z" clip-rule="evenodd" fill="#000000" fill-opacity="0.870000" fill-rule="evenodd"/>
+</svg>
